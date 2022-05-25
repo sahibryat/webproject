@@ -1,0 +1,28 @@
+Header{
+    font-size:25;
+	font-family:Arial,cursive;
+	text-align:center;
+}
+main{
+	margin-left:100px;
+}
+
+
+.box{
+	display:block:
+	float:left;
+	width:20%;
+	padding:10px;
+    padding-left:12px;	
+	
+	
+}
+ img{
+	width:100%;
+	
+}
+img:hover{
+	transform: scale(2,2);
+	transition: 2s transform;
+	
+}
